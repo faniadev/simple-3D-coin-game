@@ -1,1 +1,1 @@
-# simple-3D-coin-game
+# 3D Coin Game
